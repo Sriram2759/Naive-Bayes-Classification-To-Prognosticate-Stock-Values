@@ -1,2 +1,2 @@
 # Naive-Bayes-Classification-To-Prognosticate-Stock-Values
-A machine learning algoritm for stock market domain
+A machine learning algorithm for stock market domain
